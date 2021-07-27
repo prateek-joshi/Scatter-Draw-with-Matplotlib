@@ -1,1 +1,1 @@
-# Scatter-Draw-with-Matplotlib
+# Scatter Draw with Matplotlib
